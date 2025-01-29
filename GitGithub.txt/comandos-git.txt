@@ -1,0 +1,9 @@
+git pull: Puxa as últimas mudanças do projeto que estão na internet (repositório remoto) e coloca no seu computador. Tipo atualizar o projeto com o que aconteceu de novo.
+
+git status: Mostra o que você tem de novo ou modificado no seu projeto. É como um relatório de mudanças.
+
+git add: Marca as mudanças que você fez para que elas sejam salvas de fato. Você escolhe o que vai ser "guardado" no próximo passo.
+
+git commit -m "Atualização": Salva as mudanças que você marcou, com uma mensagem explicando o que mudou. Isso cria um "ponto de salvamento" no seu projeto.
+
+git push: Envia suas mudanças para a versão online do projeto, para que outras pessoas vejam e possam trabalhar com a versão mais atual.
